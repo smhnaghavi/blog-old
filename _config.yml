@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: smhnaghavi
 minimal_mistakes_skin: air
 search: true
-og_image: /assets/images/favicon.png
-logo: /assets/images/favicon.png
+og_image: https://smhnaghavi.github.io/blog/assets/images/favicon.png
+logo: https://smhnaghavi.github.io/blog/assets/images/favicon.png
 
 locale: "fa-IR"
 
