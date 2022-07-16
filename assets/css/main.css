@@ -3459,7 +3459,8 @@ body {
 	margin-left: 0;
 	margin-right: 0;
 	width: 100%;
-	clear: both
+	clear: both;
+	text-align: justify;
 }
 
 .page__title {
