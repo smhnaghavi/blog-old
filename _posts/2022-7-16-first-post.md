@@ -1,6 +1,6 @@
 ---
 title: "شروع وبلاگ"
-date: now
+date: 2022-07-16T00:00:00-00:00
 categories:
   - Blog
 tags:
