@@ -1,6 +1,6 @@
 ---
 title: "شروع وبلاگ"
-date: 2020-12-16T21:41:00-00:00
+date: now
 categories:
   - Blog
 tags:
