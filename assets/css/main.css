@@ -3962,9 +3962,10 @@ body {
 }
 
 .archive {
-	margin-top: 1em;
+/* 	margin-top: 1em;
 	margin-bottom: 2em;
-	margin-right: 20% !important;
+	margin-right: 20% !important; */
+	margin-right: 5% !important;
 }
 
 @media (min-width: 64em) {
@@ -4438,8 +4439,8 @@ body {
 	.sidebar.sticky {
 		overflow-y: auto;
 		max-height: calc(100vh - 2em - 2em);
-		margin-left: 80%;
-		margin-top: 20%;
+		margin-left: 70%;
+		margin-top: 5%;
 		position: absolute;
 	}
 }
