@@ -123,7 +123,7 @@ plugins:
 
 author:
   name   : "سیدمحمدهادی نقوی"
-  avatar : "/assets/images/favicon.jpg"
+  avatar : "/assets/images/favicon.png"
   bio    : "دلنوشته‌های یک برنامه نویس"
   links:
     - label: "وبسایت"
