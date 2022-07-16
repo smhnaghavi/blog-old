@@ -1,12 +1,10 @@
 ---
 title: "مطلب دوم تست"
-date: 2022-07-17T00:00:00-00:00
+date: 2022-07-12
 categories:
-  - Blog
   - test
 tags:
   - start
-  - test
 ---
 
 # دومین پست آزمایشی
