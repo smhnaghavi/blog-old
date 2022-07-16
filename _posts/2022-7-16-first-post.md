@@ -1,12 +1,10 @@
 ---
-title: "اولین مطلب"
-date: 2022-7-16T21:41:00-00:00
+title: "شروع وبلاگ"
+date: 2020-12-16T21:41:00-00:00
 categories:
-  - test 
-  - first post
+  - Blog
 tags:
   - start
-  - test
 ---
 
 # سلام به همگی
