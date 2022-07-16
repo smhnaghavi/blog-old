@@ -129,10 +129,10 @@ author:
     - label: "وبسایت"
       icon: "fas fa-fw fa-link"
       url: "https://progalaxy.org"
-    - label: "GitHub"
+    - label: "گیت هاب"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/smhnaghavi"
-    - label: "Email"
+    - label: "ایمیل "
       icon: "fab fa fa-envelope"
       url: "mailto:s.m.hadi.naghavi@gmail.com"
 
