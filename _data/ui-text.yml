@@ -1408,7 +1408,7 @@ fa: &DEFAULT_FA
   more_label                 : "ادامه مطلب"
   related_label              : "ممکن است از این مطالب نیز لذت ببرید"
   follow_label               : "دنبال کنید: "
-  feed_label                 : "خوراک"
+  feed_label                 : "FEED"
   powered_by                 : "طراحی شده توسط"
   website_label              : "سایت اینترنتی"
   email_label                : "پست الکترونیک"
@@ -1426,7 +1426,7 @@ fa: &DEFAULT_FA
   comment_error_msg          : ".متاسفانه در ارسال شما خطایی بود. لطفا مطمئن شوید تمام فیلدهای مورد نیاز تکمیل شده و دوباره امتحان کنید"
   loading_label              : "...بارگذاری"
   search_label_text          :
-  search_placeholder_text    : "عبارت جستجوی خود را وارد کنید"
+  search_placeholder_text    : "عبارتی را جست و جو کنید."
   search_algolia_no_results  :
   results_found              : "نتایج"
   back_to_top                : "بازگشت به بالا"
