@@ -63,7 +63,7 @@ comments:
     category_id          : "DIC_kwDOEzE8D84B-PIL"
     discussion_term      : "pathname"
     reactions_enabled    : "1"
-    theme                : "light"
+    theme                : "dark"
     crossorigin          : "anonymous"
 
 #utterances:
