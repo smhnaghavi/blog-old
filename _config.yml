@@ -123,18 +123,18 @@ plugins:
 
 author:
   name   : "سیدمحمدهادی نقوی"
-  avatar : "/assets/images/favicon.png"
+  avatar : "https://smhnaghavi.github.io/blog/assets/images/favicon.png"
   bio    : "دلنوشته‌های یک برنامه نویس"
   links:
     - label: "وبسایت"
       icon: "fas fa-fw fa-link"
       url: "https://progalaxy.org"
-    - label: "دیگر سایت‌ها"
-      icon: "fas fa-fw fa-link"
-      url: "https://smhnaghavi.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/smhnaghavi"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:s.m.hadi.naghavi@gmail.com"
 
 footer:
   links:
