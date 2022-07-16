@@ -1406,7 +1406,7 @@ fa: &DEFAULT_FA
   comments_label             : "ارسال نظر"
   comments_title             : "نظرات"
   more_label                 : "ادامه مطلب"
-  related_label              : "ممکن است از این مطالب نیز لذت ببرید"
+  related_label              : "شاید از این مطالب نیز لذت ببرید."
   follow_label               : "دنبال کنید: "
   feed_label                 : "FEED"
   powered_by                 : "طراحی شده توسط"
