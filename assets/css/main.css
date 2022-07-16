@@ -2402,7 +2402,8 @@ blockquote.notice--danger {
 	animation: intro 0.3s both;
 	-webkit-animation-delay: 0.45s;
 	animation-delay: 0.45s;
-	background-color: #0092ca
+	background-color: #0092ca;
+	text-align: center;
 }
 
 .page__footer::after {
