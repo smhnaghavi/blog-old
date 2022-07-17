@@ -2595,7 +2595,7 @@ blockquote.notice--danger {
 }
 
 .search-content .archive__item-excerpt {
-	margin-bottom: 0
+	margin-bottom: 1rem;
 }
 
 .ais-search-box {
@@ -3999,7 +3999,7 @@ body {
 	position: relative;
 	border: 2px solid #575B62;
 	border-radius: 25px;
-	margin-bottom: 1em;
+	margin-bottom: 1rem;
 	box-shadow: 3px 3px 20px #575B62;
 }
 
