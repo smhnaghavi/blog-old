@@ -4016,7 +4016,7 @@ body {
 	padding-bottom: 0.5em;
 	font-size: 1.25em;
 	color: #393e46;
-	border-bottom: 1px solid #cecfd1
+/* 	border-bottom: 1px solid #cecfd1 */
 }
 
 .archive__subtitle+.list__item .archive__item-title {
