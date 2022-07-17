@@ -4030,6 +4030,7 @@ body {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	margin-right: 1rem;
+	margin-top: 0.25rem !important;
 }
 
 .archive__item-title a[rel="permalink"]::before {
