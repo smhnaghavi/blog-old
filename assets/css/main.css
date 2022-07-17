@@ -3906,6 +3906,7 @@ body {
 	float: left;
 	margin-top: 2em;
 	padding-top: 1em;
+	width: 100%;
 }
 
 .page__related::after {
