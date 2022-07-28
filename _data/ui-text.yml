@@ -1429,7 +1429,7 @@ fa: &DEFAULT_FA
   search_placeholder_text    : "عبارتی را جست و جو کنید."
   search_algolia_no_results  :
   results_found              : "نتایج"
-  back_to_top                : " "
+  back_to_top                : "بازگشت به بالا"
 fa-IR:
   <<: *DEFAULT_FA
 
