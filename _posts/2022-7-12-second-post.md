@@ -2,9 +2,9 @@
 title: "مطلب دوم تست"
 date: 2022-07-12
 categories:
-  - test
+  - تست
 tags:
-  - start
+  - شروع
 ---
 
 
