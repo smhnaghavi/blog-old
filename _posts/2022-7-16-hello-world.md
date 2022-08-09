@@ -1,16 +1,15 @@
 ---
-title: "Hello World"
+title: "سلام به جهان"
 date: 2022-07-16T00:00:00-00:00
 categories:
-  - hello
-  - world
-  - python
-  - start
+  - سلام
+  - جهان
+  - شروع
+  - پایتون
 tags:
-  - start
-  - python
-  - hello
-  - world
+  - شروع
+  - سلام
+  - پایتون
 ---
 
 امروز قصد داریم برای اولین بار شروع به برنامه نویسی کنیم. 
