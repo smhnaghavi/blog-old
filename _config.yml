@@ -163,3 +163,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Style codes in mark down
+markdown: redcarpet
+extensions: [fenced_code_blocks]
