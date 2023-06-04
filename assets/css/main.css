@@ -3988,7 +3988,7 @@ body {
 
 .archive__item {
 	position: relative;
-	border-bottom: 1px solid #575B62;
+	border-right: 2px solid #0092ca;
 /* 	border-radius: 25px;
 	margin-bottom: 1em;
 	box-shadow: 3px 3px 10px #575B62; */
