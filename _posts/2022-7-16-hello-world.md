@@ -50,15 +50,15 @@ print(5+4)
 
 اگر در سیستم عامل ویندوز هستید، از دستور زیر استفاده کنید:
 
-<div dir="ltr" style="font-weight: bold;">
-  >> python main.py
-</div>
+```bash
+python main.py
+```
 
 و اگر در سیستم عامل لینوکس یا مک هستید، از دستور زیر استفاده کنید.
 
-<div dir="ltr" style="font-weight: bold;">
-  >> python3 main.py
-</div>
+```bash
+python3 main.py
+```
 
 توجه داشته باشید که  باید به جای main.py باید نام فایلتان را بنویسید.
 
@@ -70,25 +70,19 @@ print(5+4)
 
 برای زدن تب و فاصله می توانیم از \t استفاده کنیم. 
 
-<div dir="ltr" style="font-weight: bold;">
-  >> print("Hello \tworld")
-</div>
+```python
+print("Hello \tworld")
+```
 
 برای زدن اینتر در دستور print از \n استفاده می کنیم.
 
-<div dir="ltr" style="font-weight: bold;">
-  >> print("Hello \nworld")
-</div>
+```python
+print("Hello \nworld")
+```
 
 برای نوشتن متنی که میخواهیم در چند خط باشد می توانیم از این روش هم استفاده کنیم.
 
-<div dir="ltr" style="font-weight: bold;">
-  >> print("""Hello world!
-</div>
-<div dir="ltr" style="font-weight: bold;">
+```python
+print("""Hello world!
 Welcome to my blog.""")
-</div>
-
-شما می توانید به صورت آنلاین هم آموخته های خودتان را تست و آزمایش کنید. در صورت نیاز به یک IDE آنلاین و رایگان می توانید از IDE زیر استفاده کنید. این IDE توسط بنده ساخته شده است.
-
-https://smhnaghavi.github.io/SMH-IDE
+```
