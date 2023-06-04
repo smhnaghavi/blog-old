@@ -3792,7 +3792,7 @@ body {
 }
 
 .back-to-top {
-	display: block;
+	display: none;
 	clear: both;
 	color: #393e46;
 	font-size: 0.6em;
